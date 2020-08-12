@@ -1,5 +1,9 @@
 # Desafio-Indicium
 
+## Description
+[Relatorio de Atividades.pdf](https://github.com/Thisted/Desafio-Indicium/blob/master/Relatorio%20de%20Atividades.pdf) contatins all the explanations and intuitions behind the designed code.
+
+
 ## Requirements
 - Ubuntu / macOS / Windows
 - Python3
