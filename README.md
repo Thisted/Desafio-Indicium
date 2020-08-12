@@ -23,6 +23,6 @@ import numpy as np
 
 pd.read_csv('filepath.csv') # returns DataFrame
 DataFrame.merge(df, columns) # returns two DataFrames merged together
-DataFrame.groupby(column) # returns a grouped object with information about the groups
+DataFrame.groupby(columns) # returns a grouped object with information about the groups
 plt.plt(data) # return the plotted data
 plt.show() # returns the image of the plotted data
