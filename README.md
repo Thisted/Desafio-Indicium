@@ -16,6 +16,10 @@ pip install numpy
 
 ## Usage
 
+Run `Desafio_Indicium` or `Desafio_Indicium_Notebook` for usage. 
+The annotations are saved as a [JSON](http://www.json.org/) file.
+The outputs are saved as PNG and [CSV](https://pt.wikipedia.org/wiki/Comma-separated_values) files.
+
 ```python
 import matplotlib.pyplot as plt
 import pandas as pd
