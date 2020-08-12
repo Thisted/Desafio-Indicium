@@ -7,9 +7,9 @@
 ## Requirements
 - Ubuntu / macOS / Windows
 - Python3
-- Matplotlib
-- Pandas
-- Numpy
+- [Matplotlib](https://matplotlib.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
 
 ## Installation
 
