@@ -23,6 +23,6 @@ pip install numpy
 
 ## Usage
 
-Run `Desafio_Indicium` or `Desafio_Indicium_Notebook` for usage. 
+Run [Desafio_Indicium](https://github.com/Thisted/Desafio-Indicium/blob/master/Desafio_Indicium.py) or [Desafio_Indicium_Notebook](https://github.com/Thisted/Desafio-Indicium/blob/master/Desafio_Indicium_Notebook.ipynb) for usage. 
 
 The outputs are saved as [PNG](https://pt.wikipedia.org/wiki/PNG) and [CSV](https://pt.wikipedia.org/wiki/Comma-separated_values) files.
