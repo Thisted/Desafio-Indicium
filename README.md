@@ -1,8 +1,8 @@
 # Desafio-Indicium
 
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
+## Requirements
+- Ubuntu / macOS / Windows
+- Python3
 
 ## Installation
 
